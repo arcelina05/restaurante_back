@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "hamburguesa",
+    "precio": "15000"
+  },
+  {
+    "id": 2,
+    "nombre": "pizza con pollo",
+    "precio": "20000"
+  },
+  {
+    "id": 3,
+    "nombre": "malteadas",
+    "precio": "10000"
+  },
+  {
+    "id": 4,
+    "nombre": "margarita",
+    "precio": "50000"
+  },
+  {
+    "id": 5,
+    "nombre": "agua con gas",
+    "precio": "5000"
+  },
+  {
+    "id": 6,
+    "nombre": "cerveza",
+    "precio": "8000"
+  },
+  {
+    "id": 7,
+    "nombre": "totopos con salsa de queso",
+    "precio": "15000"
+  },
+  {
+    "nombre": "pizza hawaiana",
+    "precio": "5000",
+    "id": 8
+  },
+  {
+    "nombre": "pizza zamba",
+    "precio": "12000",
+    "id": 12
+  }
+]

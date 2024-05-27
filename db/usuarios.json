@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "lina",
+    "password": "lina2024",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "nombre": "cocina",
+    "password": "cocina2024",
+    "role": "cocina"
+  },
+  {
+    "id": 3,
+    "nombre": "julian",
+    "password": "julian2024",
+    "role": "mesero"
+  },
+  {
+    "nombre": "david",
+    "password": "david2024",
+    "role": "mesero",
+    "id": 4
+  }
+]
